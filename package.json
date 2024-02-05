@@ -1,0 +1,23 @@
+{
+  "name": "cct275_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css":"tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anhcodervuive/CCT275_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anhcodervuive/CCT275_Project/issues"
+  },
+  "homepage": "https://github.com/Anhcodervuive/CCT275_Project#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
