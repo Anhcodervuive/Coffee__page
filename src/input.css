@@ -37,3 +37,6 @@
   @apply uppercase text-gray-500 tracking-widest mx-4 text-[13px] text-center;
 }
 
+.ct-button {
+  @apply text-center bg-white text-[13px] font-bold text-gray-900 tracking-widest py-5 px-7 mt-3 hover:bg-opacity-95;
+}
