@@ -16,7 +16,7 @@ module.exports = {
       },
       keyframes: {
         SlideDown: {
-          '0%': { transform: 'translate(-100%)' },
+          '0%': { transform: 'translateY(-100%)' },
           '100%': { transform: 'translateY(0)' },
         },
         fadeInAndSlideUp: {
