@@ -38,7 +38,7 @@
 }
 
 .ct-button {
-  @apply text-center text-[13px] font-bold tracking-widest py-5 px-7 mt-3 hover:bg-opacity-95 cursor-pointer transition-opacity;
+  @apply text-center text-[13px] font-bold tracking-widest py-5 px-7 hover:bg-opacity-95 cursor-pointer transition-opacity;
 }
 
 #root {
